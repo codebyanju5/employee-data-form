@@ -26,7 +26,7 @@ It allows users to enter employee details in a simple form, click **Submit**, an
 
 ## 📑 Documentation  
 
-For detailed **Data Validation Rules** (formulas for each field), see [VALIDATION_RULES.md](VALIDATION_RULES.md).  
+For detailed **Data Validation Rules** (formulas for each field), see 👉 [VALIDATION_RULES.md](./VALIDATION_RULES.md).  
 
 ---
 
