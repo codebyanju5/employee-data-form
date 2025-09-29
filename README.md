@@ -17,7 +17,7 @@ It allows users to enter employee details in a simple form, click **Submit**, an
 
 ## 🖼️ Employee Data Form (Screenshot)  
 
-![Employee Data Form](./Form_Screenshot.png)  
+![Employee Data Form](./Form_Screenshot.jpg)
 
 ---
 
