@@ -1,38 +1,37 @@
-# Employee Data Entry Form (Excel VBA Project)
+# Employee Data Form – Excel Project  
 
-This project demonstrates a simple **Employee Data Form** created in Excel with **VBA automation**.  
-It allows users to fill out a form, validate the data, and store records in a database sheet.
-
----
-
-## 📌 How to Use
-1. Open the file: **Employee Data Form.xlsm**  
-2. Enable **Macros** when prompted.  
-3. Go to the **Form** sheet.  
-4. Fill in the required details (Name, Email, Allowances, etc.).  
-5. Click the **Submit** button.  
-6. The record will be saved in the **Database** sheet automatically.  
+This project is an **Employee Data Entry Form** built in Excel with **VBA macros** and **Data Validation**.  
+It allows users to enter employee details in a simple form, click **Submit**, and automatically save the record into the **Database** sheet.  
 
 ---
 
-## ✨ Features
-- User-friendly **form interface**  
-- **Data validation** for Name, Email, Dates, and Numeric fields  
-- **Submit button** with VBA to store data in database  
-- Automatic clearing of form fields after submission  
+## 📂 How to Use  
+
+1. **Open the file** `Employee Data Form.xlsm`.  
+2. Go to the **Form** sheet.  
+3. Fill in the required employee details.  
+4. Click the **Submit** button.  
+5. The record will be stored in the **Database** sheet as a new row.  
 
 ---
 
-## 📂 File Contents
-- `Form` sheet → Input form for employees  
-- `Database` sheet → Stores all submitted records  
-- VBA Macro → Handles submission logic  
+## 🛠 Features  
+
+- User-friendly **Employee Data Entry Form**.  
+- **Submit button** with VBA macro to transfer data to the Database sheet.  
+- Built-in **Data Validation rules** for clean and error-free inputs.  
+- Database sheet automatically grows as new records are added.  
 
 ---
 
-## 📖 About
-This project is part of my portfolio as a **Data Entry / Excel Executive**.  
-It showcases my skills in **Excel, Data Validation, and VBA automation**.  
+## 📑 Documentation  
+
+For detailed **Data Validation Rules** (formulas for each field), see [VALIDATION_RULES.md](VALIDATION_RULES.md).  
+
+---
+
+✨ This project showcases Excel skills in **Forms, VBA automation, and Data Validation**.  
+
 
 📧 Contact: [anjali.bideveloper@gmail.com]  
 
